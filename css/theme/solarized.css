@@ -73,6 +73,18 @@ body {
 .reveal h1 {
   text-shadow: none; }
 
+.reveal h7 {
+  margin: 0 0 20px 0;
+  color: #615327;
+  font-weight: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: none;
+  text-shadow: whitesmoke;
+  word-wrap: break-word; 
+  font-size: 0.5em}
+}
+
 /*********************************************
  * OTHER
  *********************************************/
